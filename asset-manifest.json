@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trivallytechweb/static/css/main.269a956a.css",
-    "main.js": "/trivallytechweb/static/js/main.ab222693.js",
+    "main.js": "/trivallytechweb/static/js/main.83acae82.js",
     "static/js/453.d00d43a5.chunk.js": "/trivallytechweb/static/js/453.d00d43a5.chunk.js",
     "index.html": "/trivallytechweb/index.html",
     "static/media/shortcut.svg": "/trivallytechweb/static/media/shortcut.9bd9f245bffae5690af2707ccfcd852a.svg",
@@ -14,11 +14,11 @@
     "static/media/shower.svg": "/trivallytechweb/static/media/shower.db5cff013fed72fd317525e887709080.svg",
     "static/media/leg.svg": "/trivallytechweb/static/media/leg.960c06adb201d273380f2dbf58dfb5bd.svg",
     "main.269a956a.css.map": "/trivallytechweb/static/css/main.269a956a.css.map",
-    "main.ab222693.js.map": "/trivallytechweb/static/js/main.ab222693.js.map",
+    "main.83acae82.js.map": "/trivallytechweb/static/js/main.83acae82.js.map",
     "453.d00d43a5.chunk.js.map": "/trivallytechweb/static/js/453.d00d43a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.269a956a.css",
-    "static/js/main.ab222693.js"
+    "static/js/main.83acae82.js"
   ]
 }
