@@ -4,7 +4,7 @@ import ProjectsPage from './projects.jsx';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
-  const basePath = process.env.NODE_ENV === 'production' ? '/protosync-webcite' : '';
+  const basePath = process.env.NODE_ENV === 'production' ? '/' : '';
 
   return (
     <Router basename={basePath}>
